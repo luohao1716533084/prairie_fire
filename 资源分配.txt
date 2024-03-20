@@ -17,4 +17,9 @@ sudo ssh root@centos7-vm01
 passwd: training
 重置 课堂练习的环境   vmctl reset all 
 
-docker run -v /tmp:/tmp "#name=app -itd=wisdom001/logapp
+centos 01 root登录
+sudo -i
+training
+
+
+csa认证视频：  http://video.huayinetwork.com/index.php/Index/offline/id/108
