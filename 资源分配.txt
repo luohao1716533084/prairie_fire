@@ -21,5 +21,9 @@ centos 01 root登录
 sudo -i
 training
 
+rhcsa  登录
+root
+huayinetwork
+
 
 csa认证视频：  http://video.huayinetwork.com/index.php/Index/offline/id/108
