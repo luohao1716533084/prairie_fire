@@ -24,9 +24,18 @@ centos 01 root登录
 sudo -i
 training
 
-rhcsa  登录
+
+
+rhcsa  图形界面登录
 root
 huayinetwork
+
+RHCSA 命令行登录
+先切换到root，在ssh登录
+ssh root@192.168.100.10
+
+root -> training :  su training
+
 
 
 csa认证视频：  http://video.huayinetwork.com/index.php/Index/offline/id/108
