@@ -17,6 +17,9 @@ sudo ssh root@centos7-vm01
 passwd: training
 重置 课堂练习的环境   vmctl reset all 
 
+还原考试环境：
+sudo vmctl reset rhcsa9-server -f /opt/rhcsa9-rht
+
 centos 01 root登录
 sudo -i
 training
