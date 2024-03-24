@@ -39,3 +39,9 @@ root -> training :  su training
 
 
 csa认证视频：  http://video.huayinetwork.com/index.php/Index/offline/id/108
+
+
+put "E:\BaiduNetdiskDownload\红帽9考试环境（2024适用）-RHCE\RHCE9+RHCSA9判分脚本（2024）//RHCSA9"  /home/kiosk/
+put "E:\BaiduNetdiskDownload\红帽9考试环境（2024适用）-RHCE\RHCE9+RHCSA9判分脚本（2024）//url.txt"  /home/kiosk/
+
+
