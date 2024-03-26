@@ -20,6 +20,9 @@ passwd: training
 还原考试环境：
 sudo vmctl reset rhcsa9-server -f /opt/rhcsa9-rht
 
+vmctl remove  all -f /opt/rhcsa9-rht 
+vmctl start  all -f /opt/rhcsa9-rht 
+
 centos 01 root登录
 sudo -i
 training
