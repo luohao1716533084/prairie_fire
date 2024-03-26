@@ -1,0 +1,14 @@
+登录
+
+登录宿主机：
+kiosk
+redhat
+
+登录node1L:
+ssh root@node1
+
+node1登录wallah：
+ssh wallah@node1   flectrag
+[wallah@node1 ~]$ sudo -i  切换至 [wallah@node1 ~]#
+
+
